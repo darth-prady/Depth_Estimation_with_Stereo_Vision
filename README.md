@@ -1,1 +1,1 @@
-This project calculates the distance of an obstacle, a bike in this case from images taken from 2 stereo cameras whose projection matrices are known. The distances are also visualized using a depth map created using openCV.
+This project calculates the distance of an obstacle, a bike in this case from images taken from 2 stereo cameras whose projection matrices are known. The distances are also visualized using a depth map created using OpenCV.
